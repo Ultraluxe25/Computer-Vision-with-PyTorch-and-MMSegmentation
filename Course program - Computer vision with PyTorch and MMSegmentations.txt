@@ -58,4 +58,3 @@ Practical block (8 seminars):
 7. Training a neural network from aerial photographs
 
 8. Training a neural network for depth map prediction
-
