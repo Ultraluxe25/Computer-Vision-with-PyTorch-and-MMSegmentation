@@ -1,0 +1,61 @@
+##### Русский #####
+
+Программа: 
+
+Теоретический вводный блок (3 дня): 
+
+1. Введение. Постановка задачи обучения на примере задачи классификации, метод градиентного спуска
+
+2. Нейронные сети. Нейронные сети глубокого обучения. Сверточные нейронные сети. Основные методы обучения нейронных сетей глубокого обучения. Метрики качества и функции потерь.
+
+3. Задача классификации изображений, детектирования объектов, сегментации, построения карт глубины
+
+
+Практический блок (8 семинаров):
+
+1. Знакомство с pytorch. Стандартный цикл обучения, стандартные загрузчики данных и датасеты
+
+2. Реализация пользовательского датасета
+
+3. Знакомство с фреймворком mmseg. Обзор модульной архитектуры фреймворка. Пайплайны обработки данных. Обучение тестовой модели.
+
+4. Формат пакета данных mmseg. Реализация пользовательского загрузчика данных.
+
+5. Аугментация пользовательских данных
+
+6. Обучение нейронной сети для сегментации карьеров
+
+7. Обучение нейронной сети по аэрофотоснимкам
+
+8. Обучение нейронной сети для предсказания карты глубины
+
+##### English #####
+
+Program:
+
+Theoretical introductory block (3 days):
+
+1. Introduction. Setting up a training problem using a classification problem as an example, gradient descent method
+
+2. Neural networks. Deep learning neural networks. Convolutional neural networks. Basic methods for training deep learning neural networks. Quality metrics and loss functions.
+
+3. The problem of image classification, object detection, segmentation, and depth map construction
+
+Practical block (8 seminars):
+
+1. Introduction to pytorch. Standard training cycle, standard data loaders and datasets
+
+2. Implementation of a custom dataset
+
+3. Introduction to the mmseg framework. Overview of the modular architecture of the framework. Data processing pipelines. Training a test model.
+
+4. The mmseg data packet format. Implementation of a custom data loader.
+
+5. User data augmentation
+
+6. Training a neural network for quarry segmentation
+
+7. Training a neural network from aerial photographs
+
+8. Training a neural network for depth map prediction
+
