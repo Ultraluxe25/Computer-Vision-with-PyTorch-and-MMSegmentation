@@ -96,6 +96,6 @@ print("FashionMNIST classification done!")
 torch.save(model, 'model.pth')  # Save weights + structure
 print("The model was saved successfully!")
 
-#TODO - Pring best accuracy - min loss
-#TODO - Hyperparameters tuning (simple nested loop, Optuna)
 #TODO - Transfer Learning with ResNet18
+#TODO - Visualize training (validation) curve
+#TODO - (Optional) Visualize using TensorBoard
